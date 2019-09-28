@@ -6,7 +6,7 @@ export const HeaderLogo = styled.div`
   box-shadow: 3px 3px 10pc gray;
   text-align: center;
   max-width: 1920px;
-  width: 10%;
+  width: 100%;
   margin: 0 auto;
   height: 100px;
   color: white;
