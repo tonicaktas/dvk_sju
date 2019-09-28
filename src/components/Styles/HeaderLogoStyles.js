@@ -1,12 +1,12 @@
-import styled from "styled-components"
-import Img from "gatsby-image"
+import styled from "styled-components";
+import Img from "gatsby-image";
 
 export const HeaderLogo = styled.div`
   background: white;
   box-shadow: 3px 3px 10pc gray;
   text-align: center;
   max-width: 1920px;
-  width: 100%;
+  width: 10%;
   margin: 0 auto;
   height: 100px;
   color: white;
@@ -30,4 +30,4 @@ export const HeaderLogo = styled.div`
     width: 75px;
     margin: 0;
   }
-`
+`;
